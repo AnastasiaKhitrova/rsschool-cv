@@ -22,14 +22,14 @@ const lastnumber = number % 10;
 
 console.log(lastnumber);
 ```
-********
+****
 # **Experience**
 _So far, I have no experience in IT._
-***********
+****
 # **Education**
 ## University: 
 * South Ural Medical University
 * South Ural Sport University
-************
+****
 # **English language**
 A2
