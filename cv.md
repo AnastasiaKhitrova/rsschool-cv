@@ -13,7 +13,7 @@ _At the moment, I am just starting to explore the IT field and I am determined t
 * Git
 * JavaScript(Basics)
 * Adobe Photoshop
-********
+****
 # **Code Example**
 ```
 const number = Number(prompt("Введите число:"));
